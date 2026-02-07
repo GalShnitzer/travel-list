@@ -2,6 +2,11 @@
 
 A simple and intuitive React application to help you organize and track your travel packing list. Never forget essential items for your trips again!
 
+## 📸 Demo
+
+![Travel List App Demo](./screenshots/app-demo.png)
+
+
 ## ✨ Features
 
 - **Add Items**: Easily add items with customizable quantities (1-20)
