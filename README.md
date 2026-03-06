@@ -19,6 +19,11 @@ A simple and intuitive React application to help you organize and track your tra
 - **Real-time Statistics**: Track your packing progress with live percentage updates
 - **Completion Celebration**: Get a special message when you've packed everything!
 
+## 🛠️ Tech Stack
+
+- **React** - UI library
+- **Tailwind CSS** - Utility-first CSS framework for styling
+
 ## 🚀 Getting Started
 
 ### Prerequisites

@@ -32,7 +32,7 @@ export default function App() {
   }
 
   return (
-    <div className="app">
+    <div className="font-body grid h-screen grid-rows-[auto_auto_1fr_auto]">
       <Logo />
       <Form onAddItems={handleAddItems} />
       <PackingList
