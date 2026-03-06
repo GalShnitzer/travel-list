@@ -4,7 +4,7 @@ A simple and intuitive React application to help you organize and track your tra
 
 ## 📸 Demo
 
-![Travel List App Demo](./screenshots/app-demo.png)
+<img src="./screenshots/app_demo.png" alt="Travel List App Demo" width="600"/>
 
 
 ## ✨ Features
